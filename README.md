@@ -1,8 +1,6 @@
 # Bitrix напоминание о забытых корзинах
 
-по вопросам:
-email: iravenss@gmail.com
-skype: iravenss
+
 
 Напоминалка о забытой корзине на bitrix
 
@@ -25,4 +23,8 @@ UF_CARTDATE
 4) ForgottenCartEmail добавляем в агент в битриксе
 
 Радуемся уведомлениям о забытой корзине
+
+по вопросам:
+email: iravenss@gmail.com
+skype: iravenss
 
