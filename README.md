@@ -1,5 +1,4 @@
-# ForgottenCart
-Bitrix забытые корзины
+# Bitrix напоминание о забытых корзинах
 
 по вопросам:
 email: iravenss@gmail.com
